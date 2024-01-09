@@ -1,0 +1,17 @@
+/* styles */
+
+h1 {
+    color: crimson;
+}
+
+ol {
+    color: lightblue;
+}
+
+a {
+    color: rgb(55, 95, 108);
+}
+
+.favorite{
+    color: chartreuse;
+}
